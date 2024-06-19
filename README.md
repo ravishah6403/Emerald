@@ -11,4 +11,3 @@ Emerald is a Notion like note taking app built with Next.js
 * Navigation bar
 * Preview and share notes with other by publishing it
 * Archive notes
-* 
